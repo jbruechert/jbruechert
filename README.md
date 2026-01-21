@@ -7,6 +7,8 @@ I'm helping out at many other projects, for example
 * [📦 flathub](https://github.com/flathub)
 * [🏫 OpenBoard](https://github.com/openboard-org/openboard)
 
+Most of my stuff is not on GitHub, check out https://gitlab.spline.de/jbb/, https://gitlab.com/jbb/, https://codeberg.org/jbb/ and https://invent.kde.org/jbbgameich as well.
+
 In the past (and sometimes still today) I worked on some of the following projects:
 * [🗨️ Kaidan](https://invent.kde.org/network/kaidan)
 * [📲 Plasma Mobile for Debian](https://gitlab.com/debian-pm/)
