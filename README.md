@@ -1,18 +1,22 @@
-You found the profile of a KDE Developer, currently working on 
-* [🗨️ Kaidan](https://invent.kde.org/network/kaidan)
+You found the profile of a KDE Developer, currently mainly working on 
+* [🚂 Transitous](https://transitous.org)
 * [📱 Plasma Mobile](https://invent.kde.org/plasma-mobile/)
-* [📲 Debian PM](https://gitlab.com/debian-pm/)
+* a few smaller KDE apps.
 
 I'm helping out at many other projects, for example
 * [📦 flathub](https://github.com/flathub)
 * [🏫 OpenBoard](https://github.com/openboard-org/openboard)
 
-In the past (and sometimes still today) I worked on some of the following topics:
+In the past (and sometimes still today) I worked on some of the following projects:
+* [🗨️ Kaidan](https://invent.kde.org/network/kaidan)
+* [📲 Plasma Mobile for Debian](https://gitlab.com/debian-pm/)
 * 👾 Minetest Mods & Texture packs
 * Halium
 
 Programming languages I especially like:
- * C++ (more with every new version of the standard)
  * Rust
  * Haskell
- * QML (in the hope it will soon be a compiled language)
+ * C++
+ * QML
+ * PureScript
+ * Python is kind fine too I guess
