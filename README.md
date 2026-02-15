@@ -21,4 +21,4 @@ Programming languages I especially like:
  * C++
  * QML
  * PureScript
- * Python is kind fine too I guess
+ * Python is kind of fine too I guess
